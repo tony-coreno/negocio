@@ -20,7 +20,8 @@ const ContenedorHeader = styled.header`
   height:55px;
   text-align: center;
   margin-bottom: 60px;
-  background-color: #006491;
+  //background-color: #006491;
+  background-color: #FA9600;
   //background: linear-gradient(45deg, #036EB7, #64EAFF); 
   //background: linear-gradient(45deg, #FA9600, #f4c030);
 
@@ -49,7 +50,7 @@ display:flex;
     text-decoration: none;
     //color: #3992ff;
     color: #fff;
-    padding: 10px 20px;
+    padding: 18px 15px;
     margin-bottom:10px; 
     font-size: 15px;
   }
